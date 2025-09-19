@@ -1,2 +1,2 @@
-# modulo1
+# GitHub
 Atividade referente ao módulo de GitHub de Cientista de Dados da EBAC
