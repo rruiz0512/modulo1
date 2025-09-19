@@ -1,2 +1,2 @@
 # modulo1
-Atividade referente ao módulo 1 do curso de Cientista de Dados da EBAC
+Atividade referente ao módulo de GitHub de Cientista de Dados da EBAC
